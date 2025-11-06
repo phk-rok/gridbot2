@@ -1,0 +1,6 @@
+flask
+requests
+python-dotenv
+ccxt
+feedparser
+pytz
